@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/paulpeng-popo)](https://linkedin.com/in/paulpeng-popo)
 
-A master's graduate in Computer Science from NCKU, Taiwan, passionate about using learned knowledge to solve real-world challenges.
+A master's graduate in Computer Science from NCKU, Taiwan, passionate about using learned knowledge to create useful softwares or fun applications.
 
 ### 🌟 Highlights
 
