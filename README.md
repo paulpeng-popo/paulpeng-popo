@@ -32,10 +32,10 @@ A master's graduate in Computer Science from NCKU, Taiwan, passionate about usin
 
 #### Artificial Intelligence
 
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-blue?style=flat&logo=python&logoColor=white)
-![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-blueviolet?style=flat&logo=neo4j&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red?style=flat&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange?style=flat&logo=pytorch&logoColor=white)
+![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-blueviolet?style=flat&logo=neo4j&logoColor=white)
 
 #### Web Development
 
